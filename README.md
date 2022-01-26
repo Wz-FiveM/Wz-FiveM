@@ -6,15 +6,10 @@
 
 ## 🙋‍♂️ À propos de moi
 
-- 🚀 Président de **[FiveHeberg](https://fiveheberg.com)**
-
-- 💻 Fondateur/Développeur de **[FiveBot](https://fivebot.online)**
+- 💻 Développeur du **[wLiberty]**
 
 - 👯 Je cherche à collaborer sur des **projets OpenSource**
 
-- 📫 Voici mon adresse mail perso **contact@hydradev.fr**
-
-- ⚡ Préfere les jeux d'aventures multijoueurs.
 
 ## 🚀 Langages et outils
 
