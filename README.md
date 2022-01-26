@@ -16,10 +16,7 @@
     <a href="https://www.lua.org" target="_blank"> <img src="https://th.bing.com/th/id/R.fffb2b9b83c92ed6797c11b50b42c2b6?rik=fX4Dj7nEx8fzLg&riu=http%3a%2f%2f48pedia.org%2fimages%2fthumb%2f8%2f8e%2fLua-logo.svg%2f1200px-Lua-logo.svg.png&ehk=F7nHO1i%2fU%2bmVnn7ADsqrTOWi3%2ftc5bBYw56p5o29crI%3d&risl=&pid=ImgRaw&r=0" alt="postman" width="45" height="45"/> </a>
 </p>
 
-[![Lua Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) 
-<br/>
 
-[![Lua Badge](https://img.shields.io/badge/Lua-Lua%20-blue&logo=lua)](#)
 
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
