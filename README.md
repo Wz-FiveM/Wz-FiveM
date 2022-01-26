@@ -1,14 +1,14 @@
 <h1 align="center">Wz</h1>
 
 
-## 🙋‍♂️ À propos de moi
+## 💼 À propos de moi
 
 - 💻 Développeur du **[wLiberty]**
 
 - 👯 Je cherche à collaborer sur des **projets OpenSource**
 
 
-## 🚀 Langages et outils
+## 💻 Langages et outils
 
 <p align="left"> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
