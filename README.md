@@ -22,6 +22,8 @@
 [![Lua Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) 
 <br/>
 
+[![Lua Badge](https://img.shields.io/badge/Lua-Lua%20-blue&logo=lua)](#)
+
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Obtenez des statistiques de séquences pour votre profil sur git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=HydraDevFR&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
