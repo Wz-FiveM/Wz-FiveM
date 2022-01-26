@@ -3,7 +3,7 @@
 
 ## 💼 À propos de moi
 
-- 💻 Développeur du **[wLiberty]**
+- 💻 Développeur du **[wLiberty] [wActivity] [wGM] [wStatus]**
 
 - 👯 Je cherche à collaborer sur des **projets OpenSource**
 
