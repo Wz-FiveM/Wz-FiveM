@@ -25,8 +25,8 @@
 </p>
 
   <br/>
-    <a href="https://github.com/wz-fivem/github-readme-stats"><img alt="Statistiques Github de Wz" src="https://github-readme-stats.vercel.app/api?username=HydraDevFR&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/wz-fivem/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HydraDevFR&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/wz-fivem/github-readme-stats"><img alt="Statistiques Github de Wz" src="https://github-readme-stats.vercel.app/api?username=wz-fivem&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/wz-fivem/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wz-fivem&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 <br/>
