@@ -28,11 +28,9 @@
     <a href="https://github.com/wz-fivem/github-readme-stats"><img alt="Statistiques Github de Wz" src="https://github-readme-stats.vercel.app/api?username=HydraDevFR&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/wz-fivem/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HydraDevFR&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Les principales languages ne sont qu'une mesure dans lesquelles se compose mes créations et ne reflètent pas l'expérience ou le niveau de compétence.
-
 
 <br/>
 <br/>
 
-<a href="https://github.com/HydraDevFR/github-readme-activity-graph"><img alt="Graphique d'activité de HydraDev" src="https://activity-graph.herokuapp.com/graph?username=HydraDevFR&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/wz-fivem/github-readme-activity-graph"><img alt="Graphique d'activité de Wz" src="https://activity-graph.herokuapp.com/graph?username=wz-fivem&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
