@@ -35,6 +35,6 @@
 <a href="https://github.com/wz-fivem/github-readme-activity-graph"><img alt="Graphique d'activité de Wz" src="https://activity-graph.herokuapp.com/graph?username=wz-fivem&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
  <p align="center">
-<a href="https://discords.com/bio/p/Wezor" target="blank"><img align="center" src="https://discord.c99.nl/widget/theme-1/470972839302791198.png" alt="Discord" /></a>
+<a href="https://discords.com/bio/p/Wezor" target="blank"></a>
 </p>
 
